@@ -36,6 +36,6 @@ This repository contains my AutoCAD practice drawings and exercise screenshots c
 
 ---
 
-## ✍️ **Author**
-T Karthik
+## ✍️ **Designer**
+Tammana SaiSrinivas
 
